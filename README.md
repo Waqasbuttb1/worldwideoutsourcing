@@ -1,2 +1,0 @@
-# worldwideoutsourcing
-World Wide
