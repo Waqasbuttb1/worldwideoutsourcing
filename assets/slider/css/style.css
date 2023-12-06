@@ -1,0 +1,216 @@
+
+.intensy_slider1_slide_t1 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 45px;
+	font-weight: lighter;
+	line-height: 36px;
+}
+.intensy_slider1_slide_h1 h1 {
+	font-family: 'Lato', sans-serif;
+	font-size: 85px;
+	font-weight: 900;
+	line-height: 36px;
+}
+.intensy_slider1_slide1_p p {
+	color: #fff;
+	font-family: "Roboto Slab";
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 36px;
+}
+.intensy_slider1_slide3_h1 h1 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 70px;
+	font-weight: 900;
+	line-height: 36px;
+}
+.intensy_slider1white_slide3_h1 h1 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 85px;
+	font-weight: 900;
+	line-height: 36px;
+}
+.uk-text-right {
+	text-align: right !important;
+}
+
+.intensy_slider2_slide1_h1 h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider2_slide1_t2white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 65px;
+	font-weight: 700;
+	letter-spacing: 16px;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider2_slide2_t1black h1 {
+	color: #635b5b;
+	font-family: 'Lato', sans-serif;
+	font-size: 55px;
+	font-weight: 700;
+	line-height: 36px;
+}
+.intensy_slider2_slide2_t2white h1 {
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 36px;
+}
+body.home-2 .readon-title {
+	color: #eb3b60;
+}
+body.home-2 .readon.black {
+	color: #444;
+}
+body.home-2 .readon.black:hover {
+	border-color: #eb3b60;
+	color: #fff;
+}
+body.home-2 .readon.black {
+	border-color: #a5a5a5;
+	color: #333;
+}
+body.home-2.readon.black:hover {
+	border-color: #eb3b60;
+	color: #fff;
+}
+body.home-2 .readon:hover {
+	background-color: #e82650;
+	color: #fff;
+}
+.slider2_slide3_t1black h1 {
+	font-size: 36px;
+	font-weight: 600
+}
+.slider2_slide3_t2black h1 {
+	font-size: 36px;
+	font-weight: 600
+}
+.intensy_slider3_slide1_t1white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 60px;
+}
+.intensy_slider3_slide1_t3white {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 23px;
+	font-weight: 300;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider3_slide2_title1white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 36px;
+	margin-bottom: 0;
+	transform: rotate(-15deg);
+}
+.intensy_slider3_slide2_title2white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 55px;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 0;
+	transform: rotate(-15deg);
+}
+.intensy_slider3_slide3_t3_white p {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 36px;
+	margin-bottom: 0;
+	transform: rotate(-15deg);
+}
+.intensy_slider3_slide3_t1white h1 {
+	font-family: "Roboto Slab", "serif";
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider3_slide3_white p {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+body.home-3 .readon-title {
+	color: #23c6ec;
+}
+body.home-3 .readon.white:hover {
+	border-color: #13bbe2;
+	color: #fff;
+}
+body.home-3 .readon:hover {
+	background-color: #13bbe2;
+	color: #fff;
+}
+.intensy_slider4_slide1_t1white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 32px;
+	font-weight: 300;
+	line-height: 36px;
+}
+.intensy_slider4_slide1_t2white h1 {
+	color: #fff!important;
+	font-family: "Roboto Slab", "serif";
+	font-size: 55px;
+	font-weight: 900;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider4_slide2_t1white {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 32px;
+	font-weight: 300;
+	line-height: 36px;
+}
+.intensy_slider4_slide2_t2white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 55px;
+	font-weight: 900;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.intensy_slider4_slide3_t1white {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 32px;
+	font-weight: 300;
+	line-height: 36px;
+}
+.intensy_slider4_slide3_t2white h1 {
+	color: #fff;
+	font-family: "Roboto Slab", "serif";
+	font-size: 55px;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 0;
+}
+.tparrows{
+	display:none;
+}
